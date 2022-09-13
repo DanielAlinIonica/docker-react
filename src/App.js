@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Changed alredy <code>src/App.js</code> and save to reload.
-          Hello Pirelli!!!  La revedere...
+          Hello Pirelli!!!  La revedere...- A new brach called feature
         </p>
         <a
           className="App-link"
